@@ -203,6 +203,9 @@ exclude:
   ## Remove Profiles
   - _pages/profiles.md
   ## ~ Remove Profiles
+  ## Remove Submenu
+  - _pages/dropdown.md
+  ## ~ Remove Submenu
   - purgecss.config.js
   - README.md
   - readme_preview/
