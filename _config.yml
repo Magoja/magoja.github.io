@@ -220,6 +220,8 @@ exclude:
   - _posts/2023*
   - _posts/2024*
   - _posts/2025-03-26-plotly.md
+  ## Remove cv
+  - _posts/cv.md
 keep_files:
   - CNAME
   - .nojekyll
