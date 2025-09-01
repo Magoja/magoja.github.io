@@ -188,6 +188,10 @@ exclude:
   - _pages/publications.md
   - __bibliography/
   ## ~ Remove Publications
+  ## Remove Repository
+  - _pages/repositories.md
+  - _includes/repository/
+  ## ~ Remove Repository
   - purgecss.config.js
   - README.md
   - readme_preview/
