@@ -197,6 +197,9 @@ exclude:
   - _projects/
   - _includes/project*
   ## ~ Remove Projects
+  ## Remove Teaching
+  - _pages/teaching.md
+  ## ~ Remove Teaching
   - purgecss.config.js
   - README.md
   - readme_preview/
