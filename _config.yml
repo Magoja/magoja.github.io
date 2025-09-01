@@ -211,6 +211,15 @@ exclude:
   - readme_preview/
   - vendor
   - _news/announcement_*.md # exclude announcement posts from the blog
+  ## Remove sample posts
+  - _posts/2015*
+  - _posts/2018*
+  - _posts/2020*
+  - _posts/2021*
+  - _posts/2022*
+  - _posts/2023*
+  - _posts/2024*
+  - _posts/2025-03-26-plotly.md
 keep_files:
   - CNAME
   - .nojekyll
