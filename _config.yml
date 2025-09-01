@@ -200,6 +200,9 @@ exclude:
   ## Remove Teaching
   - _pages/teaching.md
   ## ~ Remove Teaching
+  ## Remove Profiles
+  - _pages/profiles.md
+  ## ~ Remove Profiles
   - purgecss.config.js
   - README.md
   - readme_preview/
