@@ -28,13 +28,17 @@ latest_posts:
 
 This is just a small hobby project site for my friends and family, to make simple things free. If you find something here to help solving your problem, in the end if it saves your time, that would be my pleasure.
 
-I'm a software engineer. I believe software engineer is one of rare jobs that they can actually enjoy as profession and hobby at the same time. I'm a backend engineer and I see things differently than most people, and I have very little things that I can actually help them. However, I see opportunites that I can try AI to create tools, since the internet has tons of garbages.
 
-I hope this site provides clean, simple, and mostly Free solutions for simple problems. I wish this to become a goto site for them. And this is just a beginning. I'm not sure how much time I can spend here, or I can actually do as I thought. We'll see.
+I'm a software engineer. I believe software engineering is one of the rare jobs that you can actually enjoy as both a profession and a hobby. I'm a backend engineer and I see things differently than most people, and there are very few things where I can actually help them. However, I see opportunities to try AI to create tools, since the internet has tons of garbage.
 
-For disclaimer, tools here could be broken at any point of time. I would not take any responsibility in using them. But I would appreciate any feedbacks and suggestions. Or you can provide a pull request :D.
 
-Thanks. Jake
+I hope this site provides clean, simple, and mostly free solutions for everyday problems. I wish for this to become a go-to site for them. And this is just the beginning. I'm not sure how much time I can spend here, or what I can actually accomplish as I imagined. We'll see.
+
+
+Disclaimer: The tools here could be broken at any point in time. I do not take any responsibility for their use. But I would appreciate any feedback and suggestions. Or you can submit a pull request :D.
+
+Thanks,
+Jake
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
