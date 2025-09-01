@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Back to Jakeutil
+title: Jakeutil
 permalink: https://jakeutil.com
 nav: true
 nav_order: 99
